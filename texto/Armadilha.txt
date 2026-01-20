@@ -1,0 +1,28 @@
+EMBOSCADA NA SALA DE ENERGIA
+
+VOCÊ FAZ UM GESTO rápido para Zara: "Peguemos eles antes que nos encontrem."
+
+Zara se posiciona atrás da porta, lâmina energética pronta. Você fica do outro lado, pistola silenciada em punho.
+
+OS PASSOS se aproximam. Vocês ouvem fragmentos de conversa:
+
+GUARDA 1: "...verificação de rotina no setor 4..."
+GUARDA 2: "Sempre a mesma coisa. Nada acontece aqui nunca."
+
+A PORTA se abre. Os dois guardas entram conversando, completamente desprevenidos.
+
+ZARA AGE primeiro - um movimento fluido e a lâmina encontra seu alvo. O primeiro guarda cai sem emitir um som.
+
+VOCÊ DISPARA contra o segundo, mas ele reage mais rápido que o esperado. O dardo silencioso atinge seu ombro em vez do pescoço.
+
+"INTR-!" ele grita, mas Zara o silencia com um golpe preciso.
+
+SILÊNCIO retorna à sala, mas o dano está feito. O alerta parcial foi dado.
+
+JAX: "Merda! Ele conseguiu transmitir meio segundo de áudio. Sistema vai classificar como 'possível falha' mas vai mandar verificação."
+
+ZARA: "Quanto tempo?"
+
+JAX: "3-4 minutos até alguém vir checar. Preciso acelerar o hack."
+
+KAEL: " Jax termine logo isso, vamos subir pelas escadas."

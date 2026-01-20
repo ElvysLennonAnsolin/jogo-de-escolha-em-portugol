@@ -1,0 +1,13 @@
+pós combate 
+
+Vocês triunfam. Os corpos dos guardas caem, um por um, no chão de metal frio. A respiração ofegante de vocês é o único som que se ouve no corredor, que agora está manchado de sangue. A adrenalina do combate ainda pulsa nas veias, mas a missão ainda não acabou.
+
+Jax se apressa para um painel de acesso próximo, hackeando-o rapidamente. Ele consegue extrair um mapa tático do interior da Torre. "O andar de controle está a apenas três andares acima daqui," ele diz, com os olhos fixos na tela holográfica. "Mas os elevadores estão ativados. O Consórcio provavelmente vai usá-los para reforçar a segurança."
+
+Zara se aproxima, olhando para as duas opções de rota no mapa. "A escadaria é mais segura, mas vai nos atrasar. O tempo que você perde na escada, o Consórcio ganha para se preparar. Se a gente pegar o elevador, pode ser uma emboscada, mas seríamos mais rápidos."
+
+Você precisa tomar a próxima decisão. A revolução lá fora depende do seu tempo.
+
+Qual caminho vocês escolhem?
+1. A Escadaria de Emergência: É o caminho seguro. Você sabe que não há vigilância por aqui, mas vai demorar 5 minutos para chegar ao topo.
+2. O Elevador de Serviço: É o caminho rápido, mas perigoso. Pode ser uma emboscada, mas pode te levar ao topo em menos de um minuto.

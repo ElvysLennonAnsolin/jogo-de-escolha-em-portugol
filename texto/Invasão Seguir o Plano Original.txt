@@ -1,0 +1,35 @@
+Invasão Seguir o Plano Original
+
+
+Seguindo o Plano Original
+Você decide seguir o plano, confiando na informação que Jax conseguiu. 
+
+"Vamos subir. Não temos tempo para desvios. A revolução está esperando."
+
+Jax e Zara acenam, concordando com a sua decisão. Vocês se dirigem para a escada de emergência mais próxima e começam a subir. 
+
+A escadaria parece interminável, e a cada andar, a luz fica mais brilhante e a atmosfera mais tensa.
+
+Depois de 5 minutos, vocês chegam à porta que leva ao andar superior. Jax checa seu terminal: "A segurança desse andar é mínima. 
+
+Não vamos encontrar ninguém... Espera."
+
+A tela do terminal de Jax pisca em vermelho. Um alarme silencioso soa, mas é suficiente para que vocês saibam que algo está errado.
+
+"Droga! Era uma armadilha, Kael! O mapa estava errado! O Consórcio sabia que viríamos por aqui," Jax diz, com a voz tomada pela frustração.
+
+"Os guardas estão vindo! Eles vão nos encurralar!", diz Zara.
+
+A porta atrás de vocês se abre, revelando um corredor cheio de guardas do Consórcio. Eles estão armados, com as pistolas apontadas para vocês.
+
+O combate é inevitável!
+
+Combate:
+
+Inimigos: 3 guardas do Consórcio.
+
+Vida do Inimigo: Cada guarda tem 3 pontos de vida.
+
+Sua Vida: Você tem 5 pontos de vida.
+
+Dano de Ataque: 1 ponto de vida por acerto.

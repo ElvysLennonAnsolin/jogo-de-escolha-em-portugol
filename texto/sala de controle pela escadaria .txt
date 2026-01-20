@@ -1,0 +1,26 @@
+SALA CONTROLE 
+
+O som metálico da porta de aço deslizando para o lado se dissipa no ar frio.
+
+O que se revela é um pequeno corredor de acesso que leva diretamente à Sala de Controle.
+
+O coração da Torre é uma câmara espaçosa, dominada por consoles brilhantes e uma parede de telas de monitoramento.
+
+Você e Zara entram com as armas levantadas, movendo-se com cautela.
+
+Em frente ao console principal, você detecta:
+
+Dois Guardas do Consórcio de pé, parecendo tensos, mas em posição defensiva.
+
+Três Técnicos de Manutenção agachados sobre o console principal. 
+Pelo que parece, eles estão trabalhando freneticamente para reativar as defesas internas que vocês desativaram.
+
+"É o último obstáculo," Jax sussurra, observando a cena por cima do seu ombro. "Se aqueles técnicos conseguirem reativar o sistema antes de chegarmos, a revolta será abortada."
+
+Zara murmura, com a voz baixa e tensa: "Temos que agir rápido."
+
+Você tem que tomar uma decisão tática rápida:
+
+Ataque Direto: Invadir a sala imediatamente, concentrando todo o fogo nos guardas para neutralizá-los o mais rápido possível e impedir que eles protejam os técnicos. Isso iniciaria um combate intenso.
+
+Criar Distração: Usar granadas de fumaça ou desviar o poder de um console secundário para desorientar os guardas. Isso ganharia um momento para Jax tentar um hack rápido em algum painel lateral e desativar o console principal antes que os técnicos terminem o serviço.
